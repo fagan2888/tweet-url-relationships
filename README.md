@@ -9,13 +9,12 @@ Repository for the Bloomberg DSI Capstone Project
 |- data/
 	|- raw/
 	|- processed/
-	|- cleaned/
 |- images/
 	|- image1.png
 	|- image2.png
 |- notebooks/
 	|- notebook1.ipynb
-	|- notebook1.ipynb
+	|- notebook2.ipynb
 	|- archive/
 		|- no-longer-useful.ipynb
 |- src/
