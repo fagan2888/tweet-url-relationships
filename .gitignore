@@ -1,0 +1,8 @@
+# Repo scratch directory
+scratch/
+
+# Misc
+.DS_Store
+
+# IPython notebook
+.ipynb_checkpoints
